@@ -1,5 +1,6 @@
-# jsp-GODIET
-jsp 템플릿 프로젝트 ^0^
+# GODIET
+jsp 템플릿 프로젝트 💪
+다이어트 관련 웹 사이트
 
 main 페이지 - GODIET에 대한 가이드
 <img width="949" alt="go1" src="https://user-images.githubusercontent.com/42020919/58750443-85d4f900-84cd-11e9-9792-ef4be3787aa4.PNG">
